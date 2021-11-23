@@ -1,1 +1,2 @@
 demo text feature
+feature 2
